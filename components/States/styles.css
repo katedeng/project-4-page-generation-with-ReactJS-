@@ -1,0 +1,24 @@
+/**
+ * CSS for the CS142 Project 4, Problem 2 States component.
+ * 
+ * Since CSS uses a global name space for classes we should use names starting
+ * with "cs142-states-" here.
+ */
+
+.cs142-states {
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black
+}
+
+.search-results {
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: red;
+}
+
+#filter {
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
